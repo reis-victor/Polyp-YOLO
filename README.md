@@ -9,3 +9,6 @@ O código disponibilizado neste repositório é distribuído sob licença MIT.
 Os modelos treinados foram gerados a partir de datasets públicos disponibilizados no Roboflow Universe sob licença CC BY 4.0. Neste trabalho, foram utilizados os datasets Kvasir-SEG, CVC-ClinicDB e ETIS-Larib Polyp DB.
 
 Este repositório não redistribui imagens, anotações ou arquivos originais dos datasets utilizados.
+
+## Modelos
+Este repositório contém apenas os modelos finais avaliados neste trabalho.
